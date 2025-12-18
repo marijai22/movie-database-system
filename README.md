@@ -31,14 +31,4 @@ The system enforces **behavior rules for ratings**, preventing users from overus
 * Implementing business rules and automated reward systems in SQL  
 * Building Java classes interfacing with the database via JDBC/JPA  
 * Creating algorithms for personalized recommendations based on user behavior  
-* Applying object-oriented design for complex systems with multiple interrelated entities  
-
-## 📂 Project Structure
-
-* **`student/`** – Java classes implementing all interfaces with prefix `piggbbbb_`  
-* **`studentMain.java`** – main class demonstrating functionality  
-* **SQL Files**:  
-  * `piggbbbb.sql` – database creation scripts with triggers and procedures  
-  * `piggbbbb-tsql.sql` – triggers and stored procedures  
-  * `piggbbbb.bak` – database backup  
-* **Database Model**: `piggbbbb.png`  
+* Applying object-oriented design for complex systems with multiple interrelated entities
